@@ -1,1 +1,1 @@
-# jest_questions
+# jest-question
